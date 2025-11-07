@@ -14,21 +14,22 @@ interface LoveMessage {
 const loveMessages: LoveMessage[] = [
   {
     quote:
-      "Love is not about finding the perfect person, but learning to see an imperfect person perfectly.",
+      "Every moment with you feels like a dream I never want to wake up from.",
     numbers: [7, 14, 23, 31, 42, 56],
   },
   {
     quote:
-      "In your smile, I see something more beautiful than the stars.",
+      "You’re not just my girlfriend, you’re my favorite person, my peace, and my home.",
     numbers: [3, 18, 27, 35, 49, 63],
   },
   {
     quote:
-      "You are my today and all of my tomorrows.",
+      "I still get butterflies every time I see your name pop up on my phone.",
     numbers: [9, 16, 24, 38, 47, 55],
   },
   {
-    quote: "Every love story is beautiful, but ours is my favorite.",
+    quote:
+      "Every love story is beautiful, but ours is my favorite.",
     numbers: [2, 11, 29, 33, 44, 51],
   },
   {
@@ -47,15 +48,18 @@ const loveMessages: LoveMessage[] = [
     numbers: [8, 15, 22, 37, 46, 59],
   },
   {
-    quote: "The best thing to hold onto in life is each other.",
+    quote:
+      "You’ve turned my ordinary days into something beautiful just by being you.",
     numbers: [4, 13, 25, 32, 48, 57],
   },
   {
-    quote: "I have found the one whom my soul loves.",
+    quote:
+      "I have found the one whom my soul loves, and that's you.",
     numbers: [6, 17, 28, 39, 45, 61],
   },
   {
-    quote: "Love is composed of a single soul inhabiting two bodies.",
+    quote:
+      "You’re the best part of every day, even on the bad ones.",
     numbers: [10, 20, 30, 40, 50, 60],
   },
   {
@@ -63,23 +67,28 @@ const loveMessages: LoveMessage[] = [
     numbers: [12, 24, 36, 41, 53, 65],
   },
   {
-    quote: "I choose you. And I'll choose you over and over. Without pause, without doubt, in a heartbeat. I'll keep choosing you.",
+    quote:
+      "I choose you. And I'll choose you over and over. Without pause, without doubt, in a heartbeat. I'll keep choosing you.",
     numbers: [14, 28, 35, 49, 56, 63],
   },
   {
-    quote: "Whatever our souls are made of, yours and mine are the same.",
+    quote:
+      "Whatever our souls are made of, yours and mine are the same.",
     numbers: [1, 8, 15, 22, 29, 36],
   },
   {
-    quote: "When I saw you I fell in love, and you smiled because you knew.",
+    quote:
+      "When I saw you I fell in love, and you smiled because you knew.",
     numbers: [3, 9, 18, 27, 45, 54],
   },
   {
-    quote: "You are every reason, every hope, and every dream I've ever had.",
+    quote:
+      "You are every reason, every hope, and every dream I've ever had.",
     numbers: [7, 21, 28, 42, 49, 56],
   },
   {
-    quote: "I love you more than I have ever found a way to say to you.",
+    quote:
+      "I love you more than I have ever found a way to say to you.",
     numbers: [11, 22, 33, 44, 55, 66],
   },
   {
@@ -87,97 +96,118 @@ const loveMessages: LoveMessage[] = [
     numbers: [2, 13, 24, 35, 46, 57],
   },
   {
-    quote: "You are the finest, loveliest, tenderest person I have ever known.",
+    quote:
+      "You are the finest, loveliest, tenderest person I have ever known.",
     numbers: [16, 32, 48, 64, 17, 33],
   },
   {
-    quote: "I would rather spend one lifetime with you than face all the ages of this world alone.",
+    quote:
+      "I would rather spend one lifetime with you than face all the ages of this world alone.",
     numbers: [5, 10, 25, 40, 55, 65],
   },
   {
-    quote: "To love and be loved is to feel the sun from both sides.",
+    quote:
+      "I didn’t know what perfection looked like until I met you.",
     numbers: [9, 18, 36, 45, 54, 63],
   },
   {
-    quote: "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    quote:
+      "Loving you feels like magic, and I never want the spell to break.",
     numbers: [4, 8, 16, 32, 48, 52],
   },
   {
-    quote: "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
+    quote:
+      "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
     numbers: [6, 12, 24, 30, 42, 60],
   },
   {
-    quote: "The greatest happiness of life is the conviction that we are loved.",
+    quote:
+      "You’re my favorite reason to wake up in the morning and my sweetest thought at night.",
     numbers: [15, 30, 45, 52, 67, 3],
   },
   {
-    quote: "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+    quote:
+      "You’ve become my favorite habit, one I never want to break.",
     numbers: [19, 38, 57, 4, 23, 68],
   },
   {
-    quote: "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    quote:
+      "You don’t even have to try — you just make everything better by being there.",
     numbers: [23, 46, 69, 8, 17, 54],
   },
   {
-    quote: "I love you because the entire universe conspired to help me find you.",
+    quote:
+      "I love you because the entire universe conspired to help me find you.",
     numbers: [27, 54, 12, 41, 65, 29],
   },
   {
-    quote: "If I had a flower for every time I thought of you, I could walk through my garden forever.",
+    quote:
+      "If I had a flower for every time I thought of you, I could walk through my garden forever.",
     numbers: [31, 62, 18, 47, 6, 35],
   },
   {
-    quote: "You are my heart, my life, my one and only thought.",
+    quote:
+      "You are my heart, my life, my one and only thought.",
     numbers: [35, 70, 14, 53, 9, 26],
   },
   {
-    quote: "Love is that condition in which the happiness of another person is essential to your own.",
+    quote: "I love you just the way you are, Dinda.",
     numbers: [39, 7, 28, 56, 11, 64],
   },
   {
-    quote: "I love you not because of who you are, but because of who I am when I am with you.",
+    quote:
+      "I love you not because of who you are, but because of who I am when I am with you.",
     numbers: [43, 16, 32, 59, 5, 48],
   },
   {
-    quote: "Love is a friendship set to music.",
+    quote:
+      "The world feels softer, kinder, and brighter when you’re with me.",
     numbers: [47, 24, 61, 13, 37, 52],
   },
   {
-    quote: "There is only one happiness in this life, to love and be loved.",
+    quote:
+      "Even if I had a hundred lifetimes, I’d still choose you — every single time.",
     numbers: [51, 2, 39, 66, 21, 44],
   },
   {
-    quote: "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+    quote:
+      "You light up my heart more than the stars light up the sky.",
     numbers: [55, 10, 43, 69, 25, 38],
   },
   {
-    quote: "Love is a game that two can play and both win.",
+    quote:
+      "Every time I look at you, I’m reminded how lucky I am to love you.",
     numbers: [59, 18, 47, 3, 29, 65],
   },
   {
-    quote: "The best love is the kind that awakens the soul and makes us reach for more.",
+    quote:
+      "If I could bottle up your laugh, I’d keep it close and play it every time I miss you.",
     numbers: [63, 26, 51, 7, 33, 58],
   },
   {
-    quote: "I love you without knowing how, or when, or from where. I love you simply, without problems or pride.",
+    quote:
+      "I love you without knowing how, or when, or from where. I love you simply, without problems or pride.",
     numbers: [67, 34, 55, 11, 37, 62],
   },
   {
-    quote: "You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
+    quote:
+      "Just thinking about you makes everything else fade away.”",
     numbers: [4, 42, 59, 15, 68, 27],
   },
   {
-    quote: "Love is when the other person's happiness is more important than your own.",
+    quote:
+      "You’re the chapter of my life I’ll never stop reading.",
     numbers: [8, 46, 63, 19, 35, 52],
   },
   {
-    quote: "In case you ever foolishly forget: I am never not thinking of you.",
+    quote:
+      "In case you ever foolishly forget, I am never not thinking of you.",
     numbers: [12, 50, 67, 23, 39, 56],
   },
   {
     quote: "You are, and always have been, my dream.",
     numbers: [16, 54, 2, 27, 43, 60],
-  }
+  },
 ];
 
 type CookieState = "unopened" | "cracking" | "opened";
@@ -192,7 +222,9 @@ export function FortuneCookie() {
 
     setState("cracking");
     const randomLoveMessage =
-      loveMessages[Math.floor(Math.random() * loveMessages.length)];
+      loveMessages[
+        Math.floor(Math.random() * loveMessages.length)
+      ];
     setCurrentLoveMessage(randomLoveMessage);
 
     // Show cracking animation for 2 seconds, then reveal love message
@@ -274,11 +306,27 @@ export function FortuneCookie() {
                   </motion.div>
 
                   {/* Gradient definition for heart fill */}
-                  <svg width="0" height="0" className="absolute">
+                  <svg
+                    width="0"
+                    height="0"
+                    className="absolute"
+                  >
                     <defs>
-                      <linearGradient id="heart-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                        <stop offset="0%" stopColor="rgb(252 165 165)" />
-                        <stop offset="100%" stopColor="rgb(244 63 94)" />
+                      <linearGradient
+                        id="heart-gradient"
+                        x1="0%"
+                        y1="0%"
+                        x2="100%"
+                        y2="100%"
+                      >
+                        <stop
+                          offset="0%"
+                          stopColor="rgb(252 165 165)"
+                        />
+                        <stop
+                          offset="100%"
+                          stopColor="rgb(244 63 94)"
+                        />
                       </linearGradient>
                     </defs>
                   </svg>
@@ -307,7 +355,10 @@ export function FortuneCookie() {
                     <Sparkles className="w-4 h-4 text-red-400 drop-shadow-lg" />
                   </motion.div>
                   <motion.div
-                    animate={{ rotate: 360, scale: [1, 1.2, 1] }}
+                    animate={{
+                      rotate: 360,
+                      scale: [1, 1.2, 1],
+                    }}
                     transition={{
                       duration: 5,
                       repeat: Infinity,
@@ -387,8 +438,7 @@ export function FortuneCookie() {
                 style={{
                   filter:
                     "drop-shadow(0 2px 8px rgba(244, 63, 94, 0.4))",
-                  textShadow:
-                    "0 0 30px rgba(244, 63, 94, 0.6)",
+                  textShadow: "0 0 30px rgba(244, 63, 94, 0.6)",
                 }}
               >
                 <motion.span
@@ -401,7 +451,7 @@ export function FortuneCookie() {
                     ease: "easeInOut",
                   }}
                 >
-                  Love Cookie
+                  Love Cookie for my Girlfriend
                 </motion.span>
               </motion.h1>
 
@@ -416,7 +466,8 @@ export function FortuneCookie() {
                 }}
               >
                 <motion.span className="bg-clip-text">
-                  Tap the cookie to reveal your love message!
+                  Tap the cookie to reveal your love message,
+                  Dinda!
                 </motion.span>
               </motion.p>
 
@@ -513,10 +564,14 @@ export function FortuneCookie() {
               <div className="relative w-32 h-32">
                 {/* Left half of heart */}
                 <motion.div
-                  animate={{ x: [0, -30], rotate: [0, -25], opacity: [1, 0.3] }}
+                  animate={{
+                    x: [0, -30],
+                    rotate: [0, -25],
+                    opacity: [1, 0.3],
+                  }}
                   transition={{ duration: 2, ease: "easeOut" }}
                   className="absolute left-0 top-0 overflow-hidden"
-                  style={{ width: '50%', height: '100%' }}
+                  style={{ width: "50%", height: "100%" }}
                 >
                   <Heart
                     className="w-32 h-32 text-rose-400 absolute left-0"
@@ -528,10 +583,14 @@ export function FortuneCookie() {
 
                 {/* Right half of heart */}
                 <motion.div
-                  animate={{ x: [0, 30], rotate: [0, 25], opacity: [1, 0.3] }}
+                  animate={{
+                    x: [0, 30],
+                    rotate: [0, 25],
+                    opacity: [1, 0.3],
+                  }}
                   transition={{ duration: 2, ease: "easeOut" }}
                   className="absolute right-0 top-0 overflow-hidden"
-                  style={{ width: '50%', height: '100%' }}
+                  style={{ width: "50%", height: "100%" }}
                 >
                   <Heart
                     className="w-32 h-32 text-rose-400 absolute -left-16"
@@ -544,9 +603,21 @@ export function FortuneCookie() {
                 {/* Gradient definition */}
                 <svg width="0" height="0" className="absolute">
                   <defs>
-                    <linearGradient id="heart-gradient-crack" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stopColor="rgb(252 165 165)" />
-                      <stop offset="100%" stopColor="rgb(244 63 94)" />
+                    <linearGradient
+                      id="heart-gradient-crack"
+                      x1="0%"
+                      y1="0%"
+                      x2="100%"
+                      y2="100%"
+                    >
+                      <stop
+                        offset="0%"
+                        stopColor="rgb(252 165 165)"
+                      />
+                      <stop
+                        offset="100%"
+                        stopColor="rgb(244 63 94)"
+                      />
                     </linearGradient>
                   </defs>
                 </svg>
@@ -586,7 +657,7 @@ export function FortuneCookie() {
               transition={{ duration: 2 }}
               className="text-rose-700 text-center"
             >
-              Revealing your love message...
+              Revealing the love message...
             </motion.p>
           </motion.div>
         )}
@@ -738,7 +809,7 @@ export function FortuneCookie() {
                       ease: "easeInOut",
                     }}
                   >
-                    Your Love Message
+                    The Love Message for you!
                   </motion.span>
                 </motion.h2>
               </motion.div>
